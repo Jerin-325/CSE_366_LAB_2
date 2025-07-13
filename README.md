@@ -2,8 +2,6 @@
 
 This project demonstrates how to classify brain tumor using Convolutional Neural Networks (CNNs). It includes a **pre-trained CNN** implementation using PyTorch.
 
-> ⚠️ **Note**: This project is intended as a **showcase of my code** for educational and reference purposes. It is designed to help others understand and learn from the implementation rather than to achieve high-end or state-of-the-art performance. Extensive hyperparameter tuning or advanced data augmentation is **not** performed.
-
 ## 📂 Dataset
 
 The dataset used in this project is publicly available on Kaggle:
