@@ -17,4 +17,5 @@ The dataset used in this project is publicly available on Kaggle:
 ## 🧠 Model Architectures
 
 ### 1. Pre-trained CNN
-A transfer learning approach using a pre-trained model `ResNet50`.
+A transfer learning approach using a pre-trained model `ResNet50`. 
+- **Kaggle Notebook**: `https://www.kaggle.com/code/mehejarinjarin/lab-2-pre-trained-cnn/edit`
